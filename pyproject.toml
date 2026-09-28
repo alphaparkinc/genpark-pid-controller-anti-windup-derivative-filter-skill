@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-pid-controller-anti-windup-derivative-filter-skill"
+version = "1.0.0"
+description = "Industrial closed-loop PID controller with integrator anti-windup clamping and low-pass derivative filtering"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
