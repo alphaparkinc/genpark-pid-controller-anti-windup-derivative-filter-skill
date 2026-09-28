@@ -1,0 +1,19 @@
+{
+  "name": "genpark-pid-controller-anti-windup-derivative-filter-skill",
+  "version": "1.0.0",
+  "description": "Industrial closed-loop PID controller with integrator anti-windup clamping and low-pass derivative filtering",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "pid-controller",
+    "control-systems",
+    "anti-windup",
+    "derivative-filter",
+    "closed-loop-control",
+    "robotics-control",
+    "python-standard-library",
+    "agent-skills",
+    "feedback-control",
+    "setpoint-tracking"
+  ]
+}
